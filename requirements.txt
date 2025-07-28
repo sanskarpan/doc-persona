@@ -1,0 +1,21 @@
+# Core dependencies - exactly what the code uses
+sentence-transformers==2.2.2
+PyMuPDF==1.23.24
+numpy==1.24.4
+psutil==5.9.6
+tqdm==4.66.1
+requests==2.31.0
+
+# Compatible versions - fixed dependency conflicts
+transformers==4.35.0
+tokenizers==0.14.1
+huggingface-hub==0.17.3
+safetensors==0.4.1
+filelock==3.13.1
+
+# System dependencies
+regex==2023.10.3
+packaging==23.2
+typing-extensions==4.8.0
+urllib3==2.0.7
+fsspec==2023.12.2
