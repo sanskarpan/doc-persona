@@ -234,3 +234,4 @@ test_*.py
 sample/
 repopack-output.txt
 prompt.txt
+guidelines.md
